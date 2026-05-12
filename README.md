@@ -36,7 +36,7 @@ Setiap data tugas menyimpan informasi berupa tanggal deadline, judul tugas, desk
 
 ### 1. Halaman Login
 
-![Halaman Login](login.png)
+![Halaman Login](Login.png)
 
 Halaman Login digunakan sebagai akses awal pengguna sebelum masuk ke aplikasi.
 
@@ -52,7 +52,7 @@ Fitur:
 
 ### 2. Halaman Beranda
 
-![Halaman Beranda](beranda.png)
+![Halaman Beranda](Beranda.png)
 
 Halaman Beranda menampilkan informasi utama dan menu navigasi aplikasi.
 
@@ -70,7 +70,7 @@ Fitur:
 
 ### 3. Halaman Tambah Tugas Penting
 
-![Tambah Tugas Penting](penting.png)
+![Tambah Tugas Penting](Tambah Tugas Penting.png)
 
 Halaman ini digunakan untuk menambahkan tugas kategori **Penting**.
 
@@ -83,7 +83,7 @@ Data yang diinput:
 
 ### 4. Halaman Tambah Tugas Biasa
 
-![Tambah Tugas Biasa](biasa.png)
+![Tambah Tugas Biasa](Tambah Tugas Biasa.png)
 
 Halaman ini digunakan untuk menambahkan tugas kategori **Biasa**.
 
@@ -96,7 +96,7 @@ Data yang diinput:
 
 ### 5. Halaman Daftar Tugas
 
-![Daftar Tugas](daftar tugas.png)
+![Daftar Tugas](Daftar Tugas.png)
 
 Halaman ini menampilkan seluruh tugas yang telah disimpan.
 
@@ -113,7 +113,7 @@ Fitur:
 
 ### 6. Halaman Pengaturan
 
-![Halaman Pengaturan](pengaturan.png)
+![Halaman Pengaturan](Pengaturan.png)
 
 Halaman Pengaturan digunakan untuk mengganti password pengguna.
 
