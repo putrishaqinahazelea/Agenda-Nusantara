@@ -70,7 +70,7 @@ Fitur:
 
 ### 3. Halaman Tambah Tugas Penting
 
-![Tambah Tugas Penting](Tambah Tugas Penting.png)
+![Tambah Tugas Penting](Penting.png)
 
 Halaman ini digunakan untuk menambahkan tugas kategori **Penting**.
 
@@ -83,7 +83,7 @@ Data yang diinput:
 
 ### 4. Halaman Tambah Tugas Biasa
 
-![Tambah Tugas Biasa](Tambah Tugas Biasa.png)
+![Tambah Tugas Biasa](Biasa.png)
 
 Halaman ini digunakan untuk menambahkan tugas kategori **Biasa**.
 
@@ -96,7 +96,7 @@ Data yang diinput:
 
 ### 5. Halaman Daftar Tugas
 
-![Daftar Tugas](Daftar Tugas.png)
+![Daftar Tugas](Daftar.png)
 
 Halaman ini menampilkan seluruh tugas yang telah disimpan.
 
